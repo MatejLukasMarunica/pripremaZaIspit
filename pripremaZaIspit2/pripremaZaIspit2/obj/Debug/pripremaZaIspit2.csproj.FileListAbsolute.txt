@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaIspit2\pripremaZaIspit2\bin\Debug\pripremaZaIspit2.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaIspit2\pripremaZaIspit2\bin\Debug\pripremaZaIspit2.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaIspit2\pripremaZaIspit2\bin\Debug\pripremaZaIspit2.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaIspit2\pripremaZaIspit2\obj\Debug\pripremaZaIspit2.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaIspit2\pripremaZaIspit2\obj\Debug\pripremaZaIspit2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaIspit2\pripremaZaIspit2\obj\Debug\pripremaZaIspit2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaIspit2\pripremaZaIspit2\obj\Debug\pripremaZaIspit2.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\pripremaZaIspit2\pripremaZaIspit2\obj\Debug\pripremaZaIspit2.pdb
